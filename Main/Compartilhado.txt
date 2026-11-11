@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 sim
+=======
+qualquer coisa
+>>>>>>> 0137435b0ef1ea8f862c857a3089f5e72a01a4ec
 =======
 batatinha
 >>>>>>> d2a8e9ae8dc5cf3562cbdf43697bd166f6e65e7f
